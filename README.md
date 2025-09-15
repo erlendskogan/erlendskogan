@@ -25,7 +25,7 @@ Jobber med egne prosjekter innen programvareutvikling
   Har også mulighet for å importere de jeg bor med sin kalender info- så vi kan være oppdaterte på hva hverandre gjør.
 
 - **Automatisk rapportgenerator for SSE (Statens senter for epilepsi)**  
-  Soloprosjekt der jeg jobber for SSE for å utvikle en app som kan senke tiden det tar å skrive rapporter betraktelig,   og derfor redde mye kapasitet. Kan ikke laste denne opp i git.
+  Soloprosjekt der jeg jobber for SSE for å utvikle en app som kan senke tiden det tar å skrive rapporter betraktelig,   og derfor redde mye kapasitet. Kan ikke laste opp denne i github av sensitive grunner.
 
 ---
 
