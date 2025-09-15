@@ -9,7 +9,7 @@ Jobber med egne prosjekter innen programvareutvikling
 
 ## Teknisk kompetanse
 - **Programmeringsspråk:** Java, JavaScript, Python, JavaFX  
-- **Verktøy og teknologi:** Docker, Linux, Raspberry Pi, VSCode  
+- **Verktøy og teknologi:** Docker, Linux (Ubuntu), Raspberry Pi, VSCode  
 
 ---
 
@@ -18,7 +18,14 @@ Jobber med egne prosjekter innen programvareutvikling
   Et plattformspill med animasjoner og UI, fokus på design og funksjonalitet  
 
 - **Robotarm for hotellkort-analyse (Python & Raspberry Pi)**  
-  Automatisk måling av signalstyrke fra hotellkort, utviklet med tanke på kommersiell bruk  
+  Automatisk måling av signalstyrke fra hotellkort, utviklet med tanke på kommersiell bruk
+
+- **Skjerm til leiligheten (Python & Raspberry Pi)**  
+  Et display som viser oversikt over ukens værdata og calender, samt dagens busstider fra bakkegata (nærmeste busstopp)
+  Har også mulighet for å importere de jeg bor med sin kalender info- så vi kan være oppdaterte på hva hverandre gjør.
+
+- **Automatisk rapportgenerator for SSE (Statens senter for epilepsi)**  
+  Soloprosjekt der jeg jobber for SSE for å utvikle en app som kan senke tiden det tar å skrive rapporter betraktelig,   og derfor redde mye kapasitet. Kan ikke laste denne opp i git.
 
 ---
 
